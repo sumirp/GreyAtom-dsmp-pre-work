@@ -1,0 +1,1 @@
+A project about application of Python Data structures, Operators to solve a project about Student Management Sytem
